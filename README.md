@@ -19,11 +19,10 @@ Users should be able to:
 ### Screenshot
 Desktop View:
 ![my desktop view](https://user-images.githubusercontent.com/65918163/147752425-ff777d60-bf1a-49fb-ab12-2c88ca884559.png)
-)
 
 Mobile view:
 
-![my mobile view](https://user-images.githubusercontent.com/65918163/147390346-971dd53c-cc8e-41c5-865c-b9b204a32789.png)
+![my mobile view](https://user-images.githubusercontent.com/65918163/147753010-2400a55f-bb72-40d7-be2c-fe072b8bd4d5.png)
 
 ### Links
 
