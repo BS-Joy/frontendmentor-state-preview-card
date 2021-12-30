@@ -18,7 +18,8 @@ Users should be able to:
 
 ### Screenshot
 Desktop View:
-![my desktop view](https://user-images.githubusercontent.com/65918163/147390344-f6f9473e-70df-4315-a298-1cced2592763.png)
+![my desktop view](https://user-images.githubusercontent.com/65918163/147752425-ff777d60-bf1a-49fb-ab12-2c88ca884559.png)
+)
 
 Mobile view:
 
