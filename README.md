@@ -22,12 +22,21 @@ Desktop View:
 
 Mobile view:
 
+<<<<<<< HEAD
 ![my mobile view](E:\html\frontend mentor\stats-preview-card-component-main\design\my mobile view.png)
 
 ### Links
 
 - Solution URL: [Click Here!](https://github.com/BS-Joy/frontendmentor-state-preview-card)
 - Live Site URL: [Click Here!](https://bs-joy.github.io/frontendmentor-state-preview-card/)
+=======
+![my mobile view](https://user-images.githubusercontent.com/65918163/147753010-2400a55f-bb72-40d7-be2c-fe072b8bd4d5.png)
+
+### Links
+
+- Solution URL: [Click Here!](https://github.com/BS-Joy/frontend-mentor-order-summary-component)
+- Live Site URL: [Click Here!](https://bs-joy.github.io/frontend-mentor-order-summary-component/)
+>>>>>>> 5b9f62454d23f4fc650868d79cdcd0fe92b9b082
 
 ### Built with
 
@@ -40,4 +49,8 @@ Mobile view:
 
 - Website - [Not available right now!]
 - Frontend Mentor - [@BS-Joy](https://www.frontendmentor.io/profile/BS-Joy)
+<<<<<<< HEAD
 - Twitter - [@badhan_samadder](https://twitter.com/badhan_samadder)
+=======
+- Twitter - [@badhan_samadder](https://twitter.com/badhan_samadder)
+>>>>>>> 5b9f62454d23f4fc650868d79cdcd0fe92b9b082
