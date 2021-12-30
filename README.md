@@ -8,15 +8,13 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ### The challenge
 
 Users should be able to:
 
-- See hover states for interactive elements
+- View the optimal layout depending on their device's screen size
 
 ### Screenshot
 Desktop View:
